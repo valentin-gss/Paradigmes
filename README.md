@@ -14,4 +14,5 @@ Exercice3:
 Exercice4:
 1 - Il faut utiliser la requete "?-homme(X)
 
-Exercice5:
+Exercice7:
+1 - 
